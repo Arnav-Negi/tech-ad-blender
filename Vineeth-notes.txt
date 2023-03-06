@@ -1,0 +1,1 @@
+Use Vorenooitexture as defined for world in shading for sun.blend for stars
